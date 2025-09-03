@@ -1,32 +1,8 @@
 ## First Blog
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+Hello! My name is Genesis Rodriguez I am a freshman majoring in nursing, I hope to graduate 2029. 
+My goal in life is to complete my education and get the career that I want. I am planning to become a pediatric nurse and work with children, learning also more about health. I hope to be successful in life and enjoy living.
 
-If the file does not start with a header, then the post title will be derived from the filename.
+A couple of hobbies of mine are cooking, exercising, and nails. I really enjoy cooking, especially for my family, I find it relaxing and fun learning about different foods I can make. I recently started going to the gym in the summer and I thought I would hate it but it is actually very peaceful. It takes a little to get consistent but it gets easy and i think it has a great impact on my mental health and health overall. I also have a business, I do acrylic nails, I began this May of 2024 and so far its been great and I love learning new things I enjoy.
 
-This is a sample blog post. You can talk about all sorts of fun things here.
-
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+So far my favorite subject in college is Anatomy and physiology overall, I find it interesting learning about the body and its interesting facts on how the body functions.
