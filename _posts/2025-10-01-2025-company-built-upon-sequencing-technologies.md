@@ -1,5 +1,5 @@
-Company Built Upon Sequencing Technologies: 
-#
+
+
 <img width="500" height="294" alt="23andMe_logo svg" src="https://github.com/user-attachments/assets/37e10ccb-4a48-4d0e-b990-36a1ae6fb8f3" />
 
 This company is founded by Anne Wojcicki, Paul Cusenza, and Linda Avey. This company was founded in April 2006, and 2007 google and other companies help invest $3.9 million.
